@@ -31,16 +31,16 @@ javascript 高级程序设计读书笔记
   
   HTML中的JavaScript
   ---------
-  <script>元素：在HTML中插入JavaScript就需要<script>元素;
-  ***它包含6个属性：async、charset、defer、language、src、type 
-  注意：已经设置了src的script不能再其内部插入JavaScript脚本，否则会被忽略，script加载的外部其他域脚本，需要确定其安全性 ***
+    <script>元素：在HTML中插入JavaScript就需要<script>元素;
+    ***它包含6个属性：async、charset、defer、language、src、type 
+    注意：已经设置了src的script不能再其内部插入JavaScript脚本，否则会被忽略，script加载的外部其他域脚本，需要确定其安全性 ***
   
-  defer只适用于外部脚本: 脚本放置在head中会影响body内元素的加载，所以尽量放在body内的结束标签前。关于defer属性的使用，它
+    defer只适用于外部脚本: 脚本放置在head中会影响body内元素的加载，所以尽量放在body内的结束标签前。关于defer属性的使用，它
   是让脚本立即加载，但是得延时到html元素解析完再执行。
   
-  async只适用于外部脚本: 
+    async只适用于外部脚本: 
   
-  XHTML：可扩展超文本标记语言，在xhtml中植入JavaScript需要加载//<![CDATA[ function(){} //]]> ,所以更加需要通过script在外部植入脚本
+    XHTML：可扩展超文本标记语言，在xhtml中植入JavaScript需要加载//<![CDATA[ function(){} //]]> ,所以更加需要通过script在外部植入脚本
   
   
   
