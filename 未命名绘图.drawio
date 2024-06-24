@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T07:57:36.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="l_IWOkWQ7KxGx69JT1kE" version="24.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-24T07:58:54.862Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DNAabKvh1NRKS5pTDJuY" version="24.6.2" type="github" pages="2">
   <diagram name="第 1 页" id="Ihx0P2SWV2xgKwI4vrT0">
     <mxGraphModel dx="2109" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -95,10 +95,10 @@
           <mxGeometry x="635" y="290" width="90" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="CBLO3VD58gaESAwxVpmc-54" value="产品服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3333FF;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="635" y="301.75" width="80" height="20.5" as="geometry" />
+          <mxGeometry x="640" y="301.75" width="80" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="CBLO3VD58gaESAwxVpmc-55" value="三方调用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="635" y="324" width="80" height="20" as="geometry" />
+          <mxGeometry x="640" y="326" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CBLO3VD58gaESAwxVpmc-56" value="&lt;font color=&quot;#ffffff&quot;&gt;物料编辑&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="230" y="298.5" width="70" height="31.5" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="430" y="349.5" width="70" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="CBLO3VD58gaESAwxVpmc-124" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="635" y="346" width="80" height="20" as="geometry" />
+          <mxGeometry x="640" y="350" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
