@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T03:48:29.440Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cu_42Giuqs7c34KKWR5t" version="24.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-24T03:49:49.043Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="o7XRjzIU38dvg0Sv-3Mv" version="24.6.2" type="github" pages="2">
   <diagram name="第 1 页" id="Ihx0P2SWV2xgKwI4vrT0">
     <mxGraphModel dx="2213" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -112,22 +112,22 @@
         <mxCell id="CBLO3VD58gaESAwxVpmc-60" value="&lt;font color=&quot;#ffffff&quot;&gt;全局配置&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="309" y="344" width="70" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="CBLO3VD58gaESAwxVpmc-61" value="应用管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CBLO3VD58gaESAwxVpmc-61" value="页面管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="101" y="130" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CBLO3VD58gaESAwxVpmc-62" value="&lt;font color=&quot;#000000&quot;&gt;组件中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B9E0A5;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="CBLO3VD58gaESAwxVpmc-62" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;模版中心&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B9E0A5;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CBLO3VD58gaESAwxVpmc-63" value="模版中心" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B9E0A5;" vertex="1" parent="1">
+        <mxCell id="CBLO3VD58gaESAwxVpmc-63" value="发布管理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="404" y="130" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CBLO3VD58gaESAwxVpmc-65" value="发布管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CBLO3VD58gaESAwxVpmc-65" value="问题反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="509" y="130" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CBLO3VD58gaESAwxVpmc-66" value="问题反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CBLO3VD58gaESAwxVpmc-66" value="AI问答" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="610" y="130" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CBLO3VD58gaESAwxVpmc-69" value="页面管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CBLO3VD58gaESAwxVpmc-69" value="组件中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="130" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CBLO3VD58gaESAwxVpmc-70" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" vertex="1" parent="1">
